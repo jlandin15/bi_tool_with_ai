@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "linear": {
+      "version": "1.0.0",
+      "installedAt": 1771371666903
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1771371686373
+    },
+    "automation-workflows": {
+      "version": "0.1.0",
+      "installedAt": 1771371725066
+    }
+  }
+}
